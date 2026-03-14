@@ -1,6 +1,6 @@
 # IRL — It's Real Love
 
-Investor MVP for the IRL dating app. Built with Expo + React Native + TypeScript.
+MVP for the IRL dating app. Built with Expo + React Native + TypeScript.
 
 ## Quick Start
 
